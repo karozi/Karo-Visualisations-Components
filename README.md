@@ -9,7 +9,9 @@ This repository contains reusable visualization templates and color palettes dev
 
 ## Examples
 
-Themes Chart
+### Themes Chart
+
+👉  [Click to copy prompt](https://product-with-attitude.notion.site/Substack-Themes-Chart-Generator-See-your-blog-s-themes-change-over-time-24ab261687da80978260f02c0e62efe9)
 
 👉  [Click to copy code](https://github.com/karozi/Karo-Visualisations-Components/blob/main/themes_chart.py)
 
